@@ -1,12 +1,15 @@
-<h1 align="center"> Curso Alura - JavaScript para Web: Crie páginas dinâmicas<h1>
+<h1 align="center"> Curso Alura - JavaScript para Web: Crie páginas dinâmicas</h1>
 
-## Descrição do Projeto
-Este projeto é referente ao curso de JavaScript para Web da plataforma **Alura**. Os objetivos foram os seguintes:
-* Identificar os papéis de cada tecnologia da Web para construção de páginas;
-* Associar o JavaScript com HTML por meio do DOM;
-* Implementar funções com JavaScript;
-* Investigar possibilidades de resolução de problemas de código;
-* Selecionar operadores lógicos adequados para diferentes situações;
-* Produzir soluções simples para páginas dinâmicas.
+> Este curso tem como objetivo final desenvolver um instrumento musical de interface digital, onde a cada botão vamos reproduzir o som de um instrumento. 
 
-> Status do Projeto: Concluido :heavy_check_mark:
+<p align="center">
+<img src="https://github.com/nathalia-alves/projeto-midi-alura/blob/main/alura%20midi.png?raw=true" width="300" height="300">
+</p>
+
+## Objetivos
+- [x] Identificar os papéis de cada tecnologia da Web para construção de páginas;
+- [x] Associar o JavaScript com HTML por meio do DOM;
+- [x] Implementar funções com JavaScript;
+- [x] Investigar possibilidades de resolução de problemas de código;
+- [x] Selecionar operadores lógicos adequados para diferentes situações;
+- [x] Produzir soluções simples para páginas dinâmicas.
