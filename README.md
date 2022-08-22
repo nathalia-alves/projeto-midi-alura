@@ -13,3 +13,5 @@
 - [x] Investigar possibilidades de resolução de problemas de código;
 - [x] Selecionar operadores lógicos adequados para diferentes situações;
 - [x] Produzir soluções simples para páginas dinâmicas.
+
+> Status do Projeto: Concluido :heavy_check_mark:
